@@ -8,3 +8,6 @@
 <h2>Screenshot / Ekran Görüntüsü:</h2>
 
 ![](netflix.mp4)
+
+https://github.com/RamazanKun/Netflix-ReduxThunk/assets/129733537/f2d98809-69f7-400e-b6fd-e7e662bfe303
+
